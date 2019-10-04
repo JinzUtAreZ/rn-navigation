@@ -10,3 +10,5 @@
    import { createDrawerNavigator } from 'react-navigation-drawer';
 6. npm install --save react-native-screens
    import { useScreens } from 'react-native-screens'
+7. npm install --save react-navigation-header-buttons
+8. npm install --save @expo/vector-icons
