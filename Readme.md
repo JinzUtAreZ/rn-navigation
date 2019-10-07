@@ -11,4 +11,6 @@
 6. npm install --save react-native-screens
    import { useScreens } from 'react-native-screens'
 7. npm install --save react-navigation-header-buttons
-8. npm install --save @expo/vector-icons
+8. npm install --save @expo/vector-icons --- nagkaerror ako ng naginstall neto
+
+watch new circle-cli https://www.youtube.com/watch?v=Qp-BA9e0TnA&feature=youtu.be
